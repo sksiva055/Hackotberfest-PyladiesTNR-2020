@@ -7,7 +7,7 @@
 ## Get Started
 Make sure you have git installed in you machine, [Git Installation Setup here](https://help.github.com/articles/set-up-git/).
 
-### 1. Fork This Repository
+### 1. Freak This Repository
 Fork this repository by clicking the "Fork" button on top of this section.
 A copy of this repository will be created in your personal profile.
 
